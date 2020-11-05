@@ -1,0 +1,10 @@
+body{
+    background-color: limegreen;
+}
+td{
+    border:solid black;
+}
+img{
+    width: 450px;
+    height: 400px;
+}
